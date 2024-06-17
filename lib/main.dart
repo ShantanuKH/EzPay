@@ -1,4 +1,4 @@
-import 'package:chat_app/razorpay_payment.dart';
+import 'package:EzPay/razorpay_payment.dart';
 import 'package:flutter/material.dart';
 import 'package:razorpay_flutter/razorpay_flutter.dart';
 
