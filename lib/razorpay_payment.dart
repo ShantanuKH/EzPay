@@ -33,7 +33,7 @@ class _RazorpayPageState extends State<RazorpayPage> {
     int amountInPaise = amount * 100; // Convert amount to paise
 
     var options = {
-      'key': 'rzp_test_LsLxFVumCeSYcs', // Replace with your Test Key ID
+      'key': 'rzp_test_LsLxFVumCeSYcs', // Replace with your Test Key ID which we will get from razorpay accont, if you clone this repo - Shantanu Khadse
       'amount': amountInPaise, // Amount in paise (integer)
       'name': 'Shantanu Khadse.',
       'description': 'I am a Software Engineer',
