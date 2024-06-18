@@ -1,13 +1,8 @@
 # EzPay
 
-This Flutter application demonstrates how to integrate Razorpay's payment gateway for processing payments within a mobile app.
+### Overview 🌟
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Flutter SDK installed. [Get Flutter](https://flutter.dev/docs/get-started/install)
-- Android/iOS emulator or a physical device connected for testing.
+EzPay is a Flutter application that integrates Razorpay's payment gateway to facilitate secure payment processing within a mobile app. Users can enter an amount in INR and complete payments through various methods like Card, UPI, and Wallets. The app features input validation and provides feedback on payment success, failure, and external wallet usage.
 
 ### 📲 Usage
 
